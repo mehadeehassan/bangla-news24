@@ -1,3 +1,4 @@
+'use client';
 import Link from 'next/link';
 import { FiArrowLeft, FiHome, FiSearch } from 'react-icons/fi';
 
