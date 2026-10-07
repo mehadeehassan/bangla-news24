@@ -122,7 +122,7 @@ src/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/banglanews24.git
+git clone https://github.com/mehadeehassan/banglanews24.git
 ```
 
 ### 2. Go to the Project Directory
